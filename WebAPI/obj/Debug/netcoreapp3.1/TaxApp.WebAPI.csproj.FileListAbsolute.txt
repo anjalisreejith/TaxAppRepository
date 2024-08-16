@@ -1,0 +1,13 @@
+D:\d\ABP_Projects\TaxCalculationApp\WebAPI\bin\Debug\netcoreapp3.1\TaxApp.WebAPI.deps.json
+D:\d\ABP_Projects\TaxCalculationApp\WebAPI\bin\Debug\netcoreapp3.1\TaxApp.WebAPI.dll
+D:\d\ABP_Projects\TaxCalculationApp\WebAPI\bin\Debug\netcoreapp3.1\TaxApp.WebAPI.pdb
+D:\d\ABP_Projects\TaxCalculationApp\WebAPI\bin\Debug\netcoreapp3.1\TaxApp.Application.dll
+D:\d\ABP_Projects\TaxCalculationApp\WebAPI\bin\Debug\netcoreapp3.1\TaxApp.Application.pdb
+D:\d\ABP_Projects\TaxCalculationApp\WebAPI\obj\Debug\netcoreapp3.1\TaxApp.WebAPI.csproj.AssemblyReference.cache
+D:\d\ABP_Projects\TaxCalculationApp\WebAPI\obj\Debug\netcoreapp3.1\TaxApp.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\d\ABP_Projects\TaxCalculationApp\WebAPI\obj\Debug\netcoreapp3.1\TaxApp.WebAPI.AssemblyInfoInputs.cache
+D:\d\ABP_Projects\TaxCalculationApp\WebAPI\obj\Debug\netcoreapp3.1\TaxApp.WebAPI.AssemblyInfo.cs
+D:\d\ABP_Projects\TaxCalculationApp\WebAPI\obj\Debug\netcoreapp3.1\TaxApp.WebAPI.csproj.CoreCompileInputs.cache
+D:\d\ABP_Projects\TaxCalculationApp\WebAPI\obj\Debug\netcoreapp3.1\TaxApp.WebAPI.csproj.CopyComplete
+D:\d\ABP_Projects\TaxCalculationApp\WebAPI\obj\Debug\netcoreapp3.1\TaxApp.WebAPI.dll
+D:\d\ABP_Projects\TaxCalculationApp\WebAPI\obj\Debug\netcoreapp3.1\TaxApp.WebAPI.pdb

@@ -1,0 +1,9 @@
+D:\d\ABP_Projects\TaxCalculationApp\TaxApp.Application\bin\Debug\netcoreapp3.1\TaxApp.Application.deps.json
+D:\d\ABP_Projects\TaxCalculationApp\TaxApp.Application\bin\Debug\netcoreapp3.1\TaxApp.Application.dll
+D:\d\ABP_Projects\TaxCalculationApp\TaxApp.Application\bin\Debug\netcoreapp3.1\TaxApp.Application.pdb
+D:\d\ABP_Projects\TaxCalculationApp\TaxApp.Application\obj\Debug\netcoreapp3.1\TaxApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\d\ABP_Projects\TaxCalculationApp\TaxApp.Application\obj\Debug\netcoreapp3.1\TaxApp.Application.AssemblyInfoInputs.cache
+D:\d\ABP_Projects\TaxCalculationApp\TaxApp.Application\obj\Debug\netcoreapp3.1\TaxApp.Application.AssemblyInfo.cs
+D:\d\ABP_Projects\TaxCalculationApp\TaxApp.Application\obj\Debug\netcoreapp3.1\TaxApp.Application.csproj.CoreCompileInputs.cache
+D:\d\ABP_Projects\TaxCalculationApp\TaxApp.Application\obj\Debug\netcoreapp3.1\TaxApp.Application.dll
+D:\d\ABP_Projects\TaxCalculationApp\TaxApp.Application\obj\Debug\netcoreapp3.1\TaxApp.Application.pdb
