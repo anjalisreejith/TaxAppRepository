@@ -36,6 +36,7 @@ namespace TaxApp.Application.Tax
 
                 if (!costCenterModel.TryGetValue(taxModel.CostCentre, out var costCenter))
                 {
+                    taxModel.CostCentre = "Unknown";
                     costCenter = costCenterModel.GetValueOrDefault("Unknown");
                 }
 
