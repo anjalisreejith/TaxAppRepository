@@ -20,7 +20,7 @@ namespace TaxCalculationApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddSingleton<ITaxAppService, TaxAppService>();
+            services.AddScoped<ITaxAppService, TaxAppService>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
